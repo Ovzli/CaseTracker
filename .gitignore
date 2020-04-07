@@ -1,0 +1,9 @@
+glob:projects/CaseTracker/CaseTracker.suo
+glob:projects/CaseTracker/bin/*
+glob:projects/CaseTracker/obj/*
+glob:projects/FogBugzNet/bin/*
+glob:projects/FogBugzNet/obj/*
+glob:projects/CaseTracker/Output/*
+glob:projects/CaseTracker/*.user
+glob:projects/CaseTracker/*.Cache
+glob:projects/FogBugzNet/*.Cache
